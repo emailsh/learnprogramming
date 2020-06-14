@@ -12,7 +12,7 @@ public class Main {
         boolean isZero =re== 0?true:false;
         System.out.println(isZero);
         if (!isZero){
-            System.out.println("Got some remainder");
+            System.out.println("Got some remainder!");
         }
     }
 }
