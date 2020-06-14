@@ -13,7 +13,6 @@ public class Main {
         System.out.println(isZero);
         if (!isZero){
             System.out.println("Got some remainder");
-ZZ
         }
     }
 }
